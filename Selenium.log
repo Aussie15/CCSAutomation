@@ -1,0 +1,9 @@
+14:03:31,294 DEBUG devpinoyLogger:55 - Config File logged!!
+14:03:36,059 DEBUG devpinoyLogger:80 - Chrome launched!!
+14:03:41,466 DEBUG devpinoyLogger:89 - Navigated to: https://interimportal.ccsawscloud.com/#/landing
+14:04:21,447 DEBUG cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:04:21,449 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:04:21,452 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:04:21,453 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:04:21,454 DEBUG cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/IT-CENTRAL/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:04:23,253 DEBUG devpinoyLogger:165 - test execution completed!!!
